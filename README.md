@@ -16,7 +16,7 @@ It helps users evaluate the **tone and authenticity** of the news they read.
 - Detect and classify the emotional sentiment: Positive, Negative, or Neutral
 - Detect fake news using trained ML model
 - Visualize sentiment data using pie charts and word clouds
-- Easy-to-use web interface (Streamlit/Flask)
+
 
 ---
 
